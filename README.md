@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Aydariya
+- 👀 I’m interested in endangered languages and social impact
+- 🌱 I got a scholarship from Udacity&AWS, and I’m currently working to get a nanodegree in AI&ML with them
+- 🌱 I am learning NLP with Coursera scholarship
+- 💞️ I’m looking to collaborate on a Natural Language Processing project aimed to translate from ancient Turkic language into modern languages
+- 📫 How to reach me: dzh.aydariya@gmail.com
